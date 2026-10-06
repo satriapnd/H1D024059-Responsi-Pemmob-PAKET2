@@ -1,6 +1,12 @@
 # Katalog Buku OpenLibrary (Responsi Mobile - Paket 2)
 
-Aplikasi Android untuk mencari dan menjelajahi katalog buku dari REST API OpenLibrary, dibuat dengan Kotlin, Jetpack Compose, dan arsitektur MVVM.
+# Identitas
+
+**Nama** : Falasifa Satria Pinandita  
+**NIM** : H1D024059  
+**Shift Awal** : D  
+**Shift Baru** : H  
+
 
 ## Screenshot
 
