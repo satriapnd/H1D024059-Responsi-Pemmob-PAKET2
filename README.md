@@ -6,6 +6,7 @@
 **NIM** : H1D024059  
 **Shift Awal** : D  
 **Shift Baru** : H  
+**Video Penjelasan: https://youtu.be/fDU1AYsfCEM**
 
 
 ## Screenshot
